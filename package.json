@@ -1,0 +1,22 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/PavaBirari01/Node_Js_Practice.git"
+  },
+  "author": "Pavan Birari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavaBirari01/Node_Js_Practice/issues"
+  },
+  "homepage": "https://github.com/PavaBirari01/Node_Js_Practice#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
