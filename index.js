@@ -1,4 +1,6 @@
 const ImportExport = require("./ImportExport.js");
+var colors = require("colors");
+
 console.log("pavan");
 console.log("check success");
 console.log(ImportExport);
@@ -15,3 +17,9 @@ arr.filter((item) => {
     console.log(item);
   }
 });
+
+console.log("hello".green); // outputs green text
+console.log("i like cake and pies".underline.red); // outputs red underlined text
+console.log("inverse the color".inverse); // inverses the color
+console.log("OMG Rainbows!".rainbow); // rainbow
+console.log("Run the trap".trap); // Drops the bass
